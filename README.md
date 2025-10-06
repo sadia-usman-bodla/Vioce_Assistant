@@ -1,4 +1,4 @@
-a# 🗣️ Voice Assistant (Beginner Level)
+🗣️ Voice Assistant (Beginner Level)
 
 This is a simple **Python Voice Assistant** that listens to your voice commands and performs basic tasks like telling the time, date, searching the web, and fetching information from Wikipedia.
 
